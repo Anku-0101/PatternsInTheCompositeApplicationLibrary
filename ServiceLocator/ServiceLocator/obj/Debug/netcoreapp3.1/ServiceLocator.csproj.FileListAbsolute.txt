@@ -1,0 +1,13 @@
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\bin\Debug\netcoreapp3.1\ServiceLocator.exe
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\bin\Debug\netcoreapp3.1\ServiceLocator.deps.json
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\bin\Debug\netcoreapp3.1\ServiceLocator.runtimeconfig.json
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\bin\Debug\netcoreapp3.1\ServiceLocator.runtimeconfig.dev.json
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\bin\Debug\netcoreapp3.1\ServiceLocator.dll
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\bin\Debug\netcoreapp3.1\ServiceLocator.pdb
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\obj\Debug\netcoreapp3.1\ServiceLocator.csprojAssemblyReference.cache
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\obj\Debug\netcoreapp3.1\ServiceLocator.csproj.CoreCompileInputs.cache
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\obj\Debug\netcoreapp3.1\ServiceLocator.AssemblyInfoInputs.cache
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\obj\Debug\netcoreapp3.1\ServiceLocator.AssemblyInfo.cs
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\obj\Debug\netcoreapp3.1\ServiceLocator.dll
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\obj\Debug\netcoreapp3.1\ServiceLocator.pdb
+D:\Demo_Composite_Application\ServiceLocator\ServiceLocator\obj\Debug\netcoreapp3.1\ServiceLocator.genruntimeconfig.cache
